@@ -1,0 +1,8 @@
+{
+  "name": "nasa-api-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js application to fetch NASA",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
